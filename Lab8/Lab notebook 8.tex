@@ -1,0 +1,103 @@
+\documentclass[a4paper]{article}
+\usepackage{labreport}
+
+\begin{document}
+
+\section{Objective}
+The objective is to analyze a circuit and measure the real values to validate the calculated values \cite{UNCC-ECE-Dept:2023}.
+\section{Equipment Used}
+
+\begin{itemize}
+    \item Digital Multimeter
+    \item DC Power Supply
+    \item Resistors: $470\Omega$, $1K\Omega$ (2), $5.1k\Omega$, $10k\Omega$ 
+\end{itemize}
+
+\section{Experiment Setup}
+
+
+
+\section{Results}
+
+\begin{center}
+    \small\textbf{Table 8-1: Resistors Values \cite{UNCC-ECE-Dept:2023}}
+    \begin{tabular}{|p{3 cm}|p{3cm}|p{3 cm}|p{3 cm}|}
+        \hline
+        Resistance & Measured $(K\Omega)$ & Color Code $(K\Omega)$ & Error (\%) \\
+        \hline
+        $R_{1}$ & & &  \\
+        \hline
+        $R_{2}$ & & &  \\
+        \hline
+        $R_{3}$ & & &  \\
+        \hline
+        $R_{4}$ & & &  \\
+        \hline
+        $R_{5}$ & & &  \\
+        \hline
+    \end{tabular}
+\end{center}
+
+\begin{center}
+    \small\textbf{Table 8-2: Mesh Currents \cite{UNCC-ECE-Dept:2023}}
+    \begin{tabular}{|p{3 cm}|p{3cm}|p{3 cm}|p{3 cm}|}
+        \hline
+        Current & Measured (mA) & Calculated (mA) & Error (\%) \\
+        \hline
+        $I_{A}$ & & .813 mA &  \\
+        \hline
+        $I_{B}$ & & -.404 mA &  \\
+        \hline
+        $I_{C}$ & & -.913 mA &  \\
+        \hline
+    \end{tabular}
+\end{center}
+
+\begin{center}
+    \small\textbf{Table 8-3: Resistors Voltages \cite{UNCC-ECE-Dept:2023}}
+    \begin{tabular}{|p{2 cm}|p{2cm}|p{2 cm}|p{2 cm}|p{2 cm}|p{2 cm}|}
+        \hline
+         & Measured & Mesh Method & Nodal Analysis & Superposition & Simulation \\
+        \hline
+        $V_{R1}$ & & 4.1463 V & 4.43368 V & 4.1466 V & \\
+        \hline
+        $V_{R2}$ & & .18988 V & -1.2158 V & -.01897 V & \\
+        \hline
+        $V_{R3}$ & & 9.13 V & -8.21786 V & -9.1276 V & \\
+        \hline
+        $V_{R4}$ & & .409 V & .566316 V & & \\
+        \hline
+        $V_{R5}$ & & .509 V & 1.78213 V & & \\
+        \hline
+    \end{tabular}
+\end{center}
+
+\begin{center}
+    \small\textbf{Table 8-4: Resistors Current \cite{UNCC-ECE-Dept:2023}}
+    \begin{tabular}{|p{2 cm}|p{2cm}|p{2 cm}|p{2 cm}|p{2 cm}|p{2 cm}|}
+        \hline
+         & Measured & Mesh Method & Nodal Analysis & Superposition & Simulation \\
+        \hline
+        $I_{R1}$ &  & .813 mA & .869 mA & .81305 mA & \\
+        \hline
+        $I_{R2}$ & & -.404 mA & -2.386 mA & -.04037 mA  & \\
+        \hline
+        $I_{R3}$ & & -.913 mA & -.821786 mA & -.91276 mA & \\
+        \hline
+        $I_{R4}$ & & .409 mA & .566316 mA & & \\
+        \hline
+        $I_{R5}$ & & .509 mA & 1.78213 mA & & \\
+        \hline
+    \end{tabular}
+\end{center}
+
+\section{Conclusion}
+
+
+
+\bibliography{references}
+\bibliographystyle{plain}
+
+
+
+\end{document}
