@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex Lab notebook 8"] 1699383137 "Lab notebook 8.aux" "Lab notebook 8.bbl" "Lab notebook 8" 1699385113 0
+["bibtex Lab notebook 8"] 1699383137 "Lab notebook 8.aux" "Lab notebook 8.bbl" "Lab notebook 8" 1699392405 0
   "./references.bib" 1699383099 297 e25c79fe1d40692880f495ddcfdf850a ""
   "C:/Users/pehul/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "Lab notebook 8.aux" 1699385112 1498 c96e09ea391e0f2f8dc8c4899d0b85c2 "pdflatex"
+  "Lab notebook 8.aux" 1699392404 1498 c96e09ea391e0f2f8dc8c4899d0b85c2 "pdflatex"
   (generated)
   "Lab notebook 8.bbl"
   "Lab notebook 8.blg"
   (rewritten before read)
-["pdflatex"] 1699385111 "c:/Users/pehul/Documents/GitHub/Lab8/Lab8/Lab notebook 8.tex" "Lab notebook 8.pdf" "Lab notebook 8" 1699385113 0
+["pdflatex"] 1699392403 "c:/Users/pehul/Documents/GitHub/Lab8/Lab8/Lab notebook 8.tex" "Lab notebook 8.pdf" "Lab notebook 8" 1699392405 0
   "C:/Users/pehul/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1697201433 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pehul/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1695920014 11548 b28e8abb08eafa9615fe73d2f55e1b8e ""
   "C:/Users/pehul/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1695830781 24142036 3926ffd2b37070b3269ffb388ad71743 ""
@@ -103,11 +103,11 @@
   "C:/Users/pehul/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/pehul/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657797096 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/pehul/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "Lab notebook 8.aux" 1699385112 1498 c96e09ea391e0f2f8dc8c4899d0b85c2 "pdflatex"
+  "Lab notebook 8.aux" 1699392404 1498 c96e09ea391e0f2f8dc8c4899d0b85c2 "pdflatex"
   "Lab notebook 8.bbl" 1699383137 192 c39ae436fe65b92c386d5c053dce8944 "bibtex Lab notebook 8"
-  "Lab notebook 8.out" 1699385112 501 b468a36a0303e21fbb0fa0007f414c02 "pdflatex"
-  "Lab notebook 8.tex" 1699385110 2869 28a07a6e3ab77ffd250df61f6e5df3d5 ""
-  "c:/Users/pehul/Documents/GitHub/Lab8/Lab8/Lab notebook 8.tex" 1699385110 2869 28a07a6e3ab77ffd250df61f6e5df3d5 ""
+  "Lab notebook 8.out" 1699392404 501 b468a36a0303e21fbb0fa0007f414c02 "pdflatex"
+  "Lab notebook 8.tex" 1699392402 2984 fc5e9c3640aebb6c7cc27e0e1626c4a1 ""
+  "c:/Users/pehul/Documents/GitHub/Lab8/Lab8/Lab notebook 8.tex" 1699392402 2984 fc5e9c3640aebb6c7cc27e0e1626c4a1 ""
   "labreport.sty" 1699383099 689 67e517d183b2812b3df1f23498fa2ed5 ""
   (generated)
   "Lab notebook 8.aux"
